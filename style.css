@@ -29,6 +29,9 @@ div > div > img{
     opacity: 0.3;
     
 }
+div > .player > img:hover{
+    opacity: 0.4;
+}
 #flex .player img{
     cursor: pointer;
 }
